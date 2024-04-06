@@ -20,8 +20,8 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.0"
-group = "fr.earthquest.bukkitforge"
-archivesBaseName = "bukkitforge"
+group = "com.yourname.modid"
+archivesBaseName = "modid"
 targetCompatibility = sourceCompatibility = JavaVersion.VERSION_1_8
 
 minecraft {

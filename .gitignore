@@ -6,7 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
-./.gitignore
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -129,3 +128,69 @@ dist
 .pnp.*
 
 *.sqlite
+.idea
+*.gradle
+.gradle
+build
+bin
+eclipse
+.gradle/4.4.1/fileContent/fileContent.lock
+.gradle/4.4.1/fileHashes/fileHashes.bin
+.gradle/4.4.1/fileHashes/fileHashes.lock
+.gradle/4.4.1/fileHashes/resourceHashesCache.bin
+.gradle/4.4.1/taskHistory/taskHistory.bin
+.gradle/4.4.1/taskHistory/taskHistory.lock
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/buildOutputCleanup/cache.properties
+.gradle/buildOutputCleanup/outputFiles.bin
+.gradle/gradle.log
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/libraries/java_discord_rpc_2_0_1_all.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/UnderCore.api.iml
+.idea/modules/UnderCore.main.iml
+.idea/modules/UnderCore.test.iml
+eclipse/config/splash.properties
+eclipse/logs/fml-client-1.log
+eclipse/logs/fml-client-2.log
+eclipse/logs/fml-client-3.log
+eclipse/logs/fml-client-latest.log
+eclipse/logs/fml-junk-earlystartup.log
+eclipse/logs/latest.log
+eclipse/saves/New World/data/villages.dat
+eclipse/saves/New World/DIM1/data/villages.dat
+eclipse/saves/New World/level.dat
+eclipse/saves/New World/level.dat_old
+eclipse/saves/New World/region/r.-1.0.mca
+eclipse/saves/New World/region/r.0.0.mca
+eclipse/saves/New World/region/r.84.0.mca
+eclipse/saves/New World/region/r.84.1.mca
+eclipse/saves/New World/region/r.85.0.mca
+eclipse/saves/New World/region/r.85.1.mca
+eclipse/saves/New World/session.lock
+eclipse/usernamecache.json
+gradle/wrapper/gradle-wrapper.properties
+.gradle/4.4.1/fileContent/fileContent.lock
+.gradle/4.4.1/fileHashes/fileHashes.bin
+.gradle/4.4.1/fileHashes/fileHashes.lock
+.gradle/4.4.1/taskHistory/taskHistory.bin
+.gradle/4.4.1/taskHistory/taskHistory.lock
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/buildOutputCleanup/outputFiles.bin
+.gradle/gradle.log
+eclipse/logs/fml-client-latest.log
+eclipse/logs/fml-junk-earlystartup.log
+eclipse/logs/latest.log
+.gradle/4.4.1/fileContent/fileContent.lock
+.gradle/4.4.1/fileHashes/fileHashes.bin
+.gradle/4.4.1/fileHashes/fileHashes.lock
+.gradle/4.4.1/taskHistory/taskHistory.bin
+.gradle/4.4.1/taskHistory/taskHistory.lock
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/buildOutputCleanup/outputFiles.bin
+.gradle/gradle.log
+eclipse/logs/fml-client-latest.log
+eclipse/logs/fml-junk-earlystartup.log
+eclipse/logs/latest.log

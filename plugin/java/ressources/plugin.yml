@@ -1,0 +1,8 @@
+name: BukkitxForge
+main: fr.plb.forge.Main
+version: 1.0.0
+description: Test plugin, this plugin/mods is designed to be modified to your liking, or even to create your own plugin, this is an example.
+website: https://github.com/MikaM06/Bukkit-X-Forge
+commands:
+  test:
+    description: Executes test command
